@@ -3,11 +3,11 @@
 This project involves the development of a dynamic and interactive dashboard designed to analyze Adidas sales performance across various regions, product categories, and sales channels. The dashboard provides stakeholders with valuable insights into sales trends, profitability, and regional performance, enabling data-driven decision-making and strategic planning. By leveraging visual analytics, the dashboard allows users to explore key performance indicators (KPIs) and uncover patterns in sales data over time.
 
 ## Key Features of the Dashboard
-•	Sales Trends Over Time: A visual representation of daily, monthly, and yearly sales to identify growth patterns and fluctuations. (e.g., Monthly sales growth rate of 5%)
-•	Regional Sales Performance Breakdown: A heatmap and trend analysis of sales across different geographic regions, highlighting high and low-performing areas. (e.g., Northeast region contributes 35% of total revenue)
-•	Product-wise Sales and Profitability Analysis: A deep dive into various product categories, showing revenue contribution, unit sales, and profit margins. (e.g., Men's street footwear generates $5M in revenue with a 40% profit margin)
-•	In-store vs. Online Sales Performance: Comparative analysis of different sales channels to determine their effectiveness and profitability. (e.g., Online sales contribute 60% of total revenue with a 50% higher profit margin than in-store sales)
-•	Operating Margin and Profit Analysis: Detailed insights into operational profitability by region, product, and sales channel. (e.g., Average operating margin of 30%)
+•	Sales Trends Over Time: A visual representation of daily, monthly, and yearly sales to identify growth patterns and fluctuations. (e.g., Monthly sales growth rate of 5%)\
+•	Regional Sales Performance Breakdown: A heatmap and trend analysis of sales across different geographic regions, highlighting high and low-performing areas. (e.g., Northeast region contributes 35% of total revenue)\
+•	Product-wise Sales and Profitability Analysis: A deep dive into various product categories, showing revenue contribution, unit sales, and profit margins. (e.g., Men's street footwear generates $5M in revenue with a 40% profit margin)\
+•	In-store vs. Online Sales Performance: Comparative analysis of different sales channels to determine their effectiveness and profitability. (e.g., Online sales contribute 60% of total revenue with a 50% higher profit margin than in-store sales)\
+•	Operating Margin and Profit Analysis: Detailed insights into operational profitability by region, product, and sales channel. (e.g., Average operating margin of 30%)\
 •	Interactive Filters and Drill-down Capabilities: Users can filter data by date range, product category, region, and retailer to gain a customized view of sales performance.
 
 ## Tools and Data Source
