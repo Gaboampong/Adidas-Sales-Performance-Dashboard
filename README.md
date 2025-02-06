@@ -22,6 +22,8 @@ o	Microsoft Excel
 •	Data Aggregation: Summarizing transactional data to create meaningful insights for dashboard visualization.\
 
 ## Data Analysis
+![dashboard](https://github.com/user-attachments/assets/2c4fbc50-d927-4d9a-9611-c914409d9093)
+
 ## Identifying Top-performing Regions and Products
 •	Breakdown of sales by region to determine high-revenue areas.\
 •	Analysis of product sales contributions to total revenue.\
